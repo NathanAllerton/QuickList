@@ -1,7 +1,4 @@
 #Author: Nawal Ahmed
-#User Interface Engineering
-#Assignment 01 Mod 1
-#8/27/2018
 #The program is a simple, lightweight text editor specifically made for creating, saving, and loading lists.
 
 from tkinter.filedialog import* #Open and save file dialouges
