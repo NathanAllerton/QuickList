@@ -6,7 +6,7 @@ I made this program to experiment a little with tkinter. It is quite simple.
 div {
   box-shadow: 10px 10px 5px grey;
   <p align="center">
-    <img src="readmeResources/quicklistDemo.gif">
+    <img box-shadow: 10px 10px 5px grey src="readmeResources/quicklistDemo.gif">
   </p>
 }
 
