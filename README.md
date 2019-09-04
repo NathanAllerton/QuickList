@@ -4,11 +4,7 @@ A Notepad++ mimicker written in Python.
 I made this program to experiment a little with tkinter. It is quite simple.
 
 <p align="center">
-  ![QuickList Demo](demo/quicklistDemo.gif)
-</p>
-
-<p align="center">
-  <src="demo/quicklistDemo.gif">
+  <img src="demo/quicklistDemo.gif">
 </p>
   
 <p align="center">
