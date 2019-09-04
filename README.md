@@ -1,6 +1,8 @@
 # QuickList
 A Notepad++ mimicker written in Python.
 
-I got a lot of praise for it from my professor, and she wanted me to present it due to the clean concise of the code. The program itself however, is rather simple.
+I made this program to experiment a little with tkinter. It is quite simple.
+
+
 
 I've been meaning to look back at this and add a lot more. Maybe make a fully functional Notepad++ clone.
