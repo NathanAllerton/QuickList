@@ -2,7 +2,7 @@
 #The program is a simple, lightweight text editor specifically made for creating, saving, and loading lists.
 
 from tkinter.filedialog import* #Open and save file dialouges
-# The maybe not so quick brown fox jumped over the lazy dog
+# This comment is me testing out GitKraken and PyCharm git features
 filename = None
 
 #Four functions used in the file menu and in the context menu
