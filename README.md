@@ -1,5 +1,5 @@
 # QuickList
-A Notepad++ mimicker written in Python.
+A quicklist for tasks written in Python.
 
 I made this program to experiment a little with tkinter. It is quite simple.
 
